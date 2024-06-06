@@ -1,0 +1,19 @@
+{
+  "name": "my_first_app",
+  "version": "1.0.0",
+  "description": "\"This is my first node js application",
+  "main": "first_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickcommitGit/Node_js_Celebal-Technologies.git"
+  },
+  "author": "Nikhil Kumar Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickcommitGit/Node_js_Celebal-Technologies/issues"
+  },
+  "homepage": "https://github.com/NickcommitGit/Node_js_Celebal-Technologies#readme"
+}
